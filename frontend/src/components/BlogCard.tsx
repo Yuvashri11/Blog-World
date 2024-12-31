@@ -46,7 +46,7 @@ export const BlogCard=({
                 {content.slice(0,100)+"..."}
             </div>
             <div className="text-slate-500 text-sm font-thin pt-2">
-                {`${Math.ceil(content.length/300)} minutes`}
+                {`${Math.ceil(content.length/400)} minutes`}
             </div>
             {/* <div className="bg-slate-200 h-1 w-full">
 
