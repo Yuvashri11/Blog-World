@@ -1,0 +1,17 @@
+{
+  "name": "@yuvashri-11/medium-common-2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@yuvashri-11/medium-common-1": "^1.0.0",
+    "@yuvashri-11/medium-common-2": "^1.0.0",
+    "zod": "^3.23.8"
+  },
+  "description": ""
+}
